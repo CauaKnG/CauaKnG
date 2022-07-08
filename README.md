@@ -3,9 +3,9 @@
 - 🌱 Estudando para me tornar um desenvolvedor FullStack !
 
 <div align="center">
-  <a href="https://github.com/cauakng">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauakng&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauakng&layout=compact&langs_count=7&theme=darcula"/>
+  <a href="https://github.com/CauaKnG">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaKnG&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaKnG&layout=compact&langs_count=7&theme=darcula"/>
 </div>
 
 <div style="display: inline_block"><br>
